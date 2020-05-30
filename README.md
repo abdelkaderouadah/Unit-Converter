@@ -1,5 +1,5 @@
 # Flutter Unit Converter
-Building a Unit Converter App in Flutter.
+Building a Unit Converter App with Flutter.
 
 Show some ❤️ and star the repo to support the project
 

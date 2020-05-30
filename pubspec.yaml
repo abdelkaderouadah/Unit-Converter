@@ -1,0 +1,36 @@
+name: unit_converter
+description: Flutter Unit Converter App [responsive + json + Api ] .
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+   - assets/icons/
+   - assets/data/regular_units.json
+
+  fonts:
+    - family: fontello
+      fonts:
+        - asset: assets/fonts/fontello.ttf
+
